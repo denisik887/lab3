@@ -1,0 +1,48 @@
+
+.day {
+    background-color: #f0e68c;
+    color: #000;
+}
+
+.night {
+    background-color: #2f4f4f;
+    color: #fff;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+}
+
+td {
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 18px;
+}
+
+.black {
+    background-color: #000;
+    color: #fff;
+}
+
+.white {
+    background-color: #fff;
+    color: #000;
+}
+
+.image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.hidden {
+    display: none;
+}
